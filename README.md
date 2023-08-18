@@ -1,7 +1,5 @@
 # Python for Ethical Hackers
 
-![Python Ethical Hacker](course_image.jpg)
-
 Welcome to the **Python for Ethical Hackers** course! This comprehensive course is designed to provide you basic concept of Python programming and great start to create your own tools for ethical hacking and cybersecurity tasks.
 
 ## Course Overview
