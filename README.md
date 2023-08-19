@@ -14,6 +14,21 @@ In this course, you will learn:
 - **Challenge 2:** Hangman Challenge - A text-based game project to apply your learning.
 - Developing a Spider Tool for web crawling and data extraction.
 
+##Fundamentals topics
+
+1. print.py
+2. variables and comment's
+3. basic input and output
+4. Datatypes
+5. Operators
+6. if statements
+7. Nested if statements
+8. For loop
+9. While loop
+10. Fizzbuzz challenge
+11. Hangman challenge
+12. Spider tool
+
 ## Prerequisites
 
 - Basic understanding of programming concepts (no prior Python experience required).
