@@ -14,7 +14,7 @@ In this course, you will learn:
 - **Challenge 2:** Hangman Challenge - A text-based game project to apply your learning.
 - Developing a Spider Tool for web crawling and data extraction.
 
-##Fundamentals topics
+## Fundamentals topics
 
 1. print.py
 2. variables and comment's
