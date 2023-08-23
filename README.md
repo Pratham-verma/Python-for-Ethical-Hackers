@@ -64,5 +64,5 @@ This course is available under the [MIT License](LICENSE). You are free to use, 
 
 Happy coding and learning! Remember, Python is a powerful tool that can greatly enhance your ethical hacking skills. Develop your own tools and empower yourself in the world of cybersecurity. If you have any questions or need assistance, don't hesitate to reach out.
 
-## Thank You
+## -> Thank You-
 
