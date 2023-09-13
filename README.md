@@ -28,6 +28,7 @@ In this course, you will learn:
 10. Fizzbuzz challenge
 11. Hangman challenge
 12. Spider tool
+13. port scanner
 
 ## Prerequisites
 
