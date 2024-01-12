@@ -57,10 +57,6 @@ In this project, you'll develop a Spider Tool that crawls websites, extracts dat
 
 Contributions, improvements, and feedback are highly encouraged! If you have suggestions to enhance the course or fix any issues, please feel free to open a pull request or issue on the repository.
 
-## License
-
-This course is available under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as per the terms of the license.
-
 ---
 
 Happy coding and learning! Remember, Python is a powerful tool that can greatly enhance your ethical hacking skills. Develop your own tools and empower yourself in the world of cybersecurity. If you have any questions or need assistance, don't hesitate to reach out.
