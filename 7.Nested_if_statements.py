@@ -13,15 +13,14 @@ if Score >= 90:
    else:
     print("your grade is A")
 
-if Score >= 80:
-   age =   input("what is your age?\n")
+if Score > 80 and Score < 90:
+   age =   int(input("what is your age?\n"))
    if age < 15:
        print("That's great your grade is B+")
    else:
         print("your grade is B")
    
-
-if Score >= 70:
+if Score < 80:
     print("your grade is C")
 else:
       print("Next time study more")
